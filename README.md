@@ -1,10 +1,10 @@
-# 🎓 College Event Management Database
+# College Event Management Database
 
 A relational database system designed using SQL for managing college events efficiently. It handles students, events, registrations, payments, and reviews using structured and normalized tables.
 
 ---
 
-## 📌 Features
+##  Features
 - Student registration management  
 - Event creation and scheduling  
 - Event registration system  
@@ -13,7 +13,7 @@ A relational database system designed using SQL for managing college events effi
 
 ---
 
-## 🗄️ Database Tables
+## Database Tables
 - admin  
 - students  
 - event  
@@ -23,23 +23,23 @@ A relational database system designed using SQL for managing college events effi
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - MySQL / SQL  
 - Database Design Principles  
 - Relational Data Modeling  
 
 ---
 
-## 🎯 Purpose
+##  Purpose
 This project demonstrates practical knowledge of database design, relationships, normalization, and SQL operations for real-world applications.
 
 ---
 
-## 📁 Files Included
+## Files Included
 - `college_event.sql` → Full database schema  
 - `queries.sql` → SQL queries for practice  
 
 ---
 
-## 👨‍🎓 Author
+##  Author
 Asmita Dahal
